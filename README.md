@@ -2,7 +2,9 @@
 - 👀 I’m interested in learning new data types, languages, styles, and development techniques
 - 🌱 I’m currently learning full stack web development at Vanderbilt University
 - 💞️ I’m looking to collaborate on projects/assignments that will help me better and improve my knowledge in web development!
-- 📫 How to reach me @hadeediqbal
+- 📫 How to reach me 
+- Github: @hadeediqbal
+- Linkdn: Hadeed Iqbal
 
 <!---
 hadeediqbal/hadeediqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
