@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hadeediqbal
 - 👀 I’m interested in learning new data types, languages, styles, and development techniques
 - 🌱 I’m currently learning full stack web development at Vanderbilt University
-- 💞️ I’m looking to collaborate on projects that will help me better and improve my knowledge in web development!
+- 💞️ I’m looking to collaborate on projects/assignments that will help me better and improve my knowledge in web development!
 - 📫 How to reach me @hadeediqbal
 
 <!---
